@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './styles/index.css';
 import App from './App';
+import './utilities/analytics';
 import { BrowserRouter } from 'react-router';
 import { ThemeProvider } from './contexts/ThemeContext';
 import { DataProvider } from './contexts/dataContext';
