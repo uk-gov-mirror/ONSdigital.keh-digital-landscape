@@ -19,7 +19,7 @@ backend/data/
 │   ├── directorates.json
 │   ├── bannerMessages.json
 │   ├── techRadarEntries.json
-│   ├── repositoryStatistics.json
+│   ├── repositoriesStatistics.json
 │   └── AddressBook/
 │       ├── addressBookEmailKey.json
 │       ├── addressBookIDKey.json
